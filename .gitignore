@@ -1,0 +1,52 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Caches
+.cache/
+cache/
+*.cache
+
+# Logs
+logs/
+*.log
+bot.log
+
+# Environment variables
+.env
+.env.*
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# VSCode settings
+.vscode/
+
+# Pytest cache
+.pytest_cache/
+
+# MyPy
+.mypy_cache/
+
+# Coverage reports
+htmlcov/
+.coverage
+
+# Test output
+*.out
+*.test
+
+# Ignore data folder if it contains large/intermediate files
+data/
+
+# Ignore any backup files
+*~
+*.bak
+
+# Ignore compiled C extensions
+*.so 
